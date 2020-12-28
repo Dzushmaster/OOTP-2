@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab10\LP10\bin\Debug\LP10.exe.config
+C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab10\LP10\bin\Debug\LP10.exe
+C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab10\LP10\bin\Debug\LP10.pdb
+C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab10\LP10\obj\Debug\LP10.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab10\LP10\obj\Debug\LP10.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab10\LP10\obj\Debug\LP10.exe
+C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab10\LP10\obj\Debug\LP10.pdb

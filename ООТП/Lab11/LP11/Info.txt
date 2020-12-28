@@ -1,0 +1,124 @@
+<---------------------------------------------- Class 1 ---------------------------------------------->
+LP11
+----------------------------------------------------
+There is public constructors
+----------------------------------------------------
+Имя метода: get_SecondName
+Имя метода: set_SecondName
+Имя метода: get_Name
+Имя метода: set_Name
+Имя метода: get_DateOfBirth
+Имя метода: set_DateOfBirth
+Имя метода: get_Adress
+Имя метода: get_Telephone
+Имя метода: set_Telephone
+Имя метода: get_Faculty
+Имя метода: set_Faculty
+Имя метода: get_Curse
+Имя метода: set_Curse
+Имя метода: get_Group
+Имя метода: set_Group
+Имя метода: GetID
+Имя метода: CheckNumbers
+Имя метода: ToString
+Имя метода: AgeStudent
+Имя метода: GetHashCode
+Имя метода: GetEnumerator
+Имя метода: Equals
+Имя метода: GetType
+----------------------------------------------------
+Имя поля: Students
+Имя поля: id
+Имя поля: years
+Имя поля: ALLSTUDENTS
+----------------------------------------------------
+<---------------------------------------------- Class 2 ---------------------------------------------->
+LP11
+----------------------------------------------------
+There is public constructors
+----------------------------------------------------
+Имя метода: get_Power
+Имя метода: set_Power
+Имя метода: get_YearOfCreate
+Имя метода: set_YearOfCreate
+Имя метода: get_TypeOfTransformer
+Имя метода: set_TypeOfTransformer
+Имя метода: get_Name
+Имя метода: set_Name
+Имя метода: ICanRun
+Имя метода: DisplaySpeed
+Имя метода: Equals
+Имя метода: GetHashCode
+Имя метода: GetType
+Имя метода: ToString
+----------------------------------------------------
+----------------------------------------------------
+<---------------------------------------------- Standart type ---------------------------------------------->
+mscorlib
+----------------------------------------------------
+There is public constructors
+----------------------------------------------------
+Имя метода: get_Capacity
+Имя метода: set_Capacity
+Имя метода: get_Count
+Имя метода: get_Item
+Имя метода: set_Item
+Имя метода: Add
+Имя метода: AddRange
+Имя метода: AsReadOnly
+Имя метода: BinarySearch
+Имя метода: BinarySearch
+Имя метода: BinarySearch
+Имя метода: Clear
+Имя метода: Contains
+Имя метода: CopyTo
+Имя метода: CopyTo
+Имя метода: CopyTo
+Имя метода: Exists
+Имя метода: Find
+Имя метода: FindAll
+Имя метода: FindIndex
+Имя метода: FindIndex
+Имя метода: FindIndex
+Имя метода: FindLast
+Имя метода: FindLastIndex
+Имя метода: FindLastIndex
+Имя метода: FindLastIndex
+Имя метода: ForEach
+Имя метода: GetEnumerator
+Имя метода: GetRange
+Имя метода: IndexOf
+Имя метода: IndexOf
+Имя метода: IndexOf
+Имя метода: Insert
+Имя метода: InsertRange
+Имя метода: LastIndexOf
+Имя метода: LastIndexOf
+Имя метода: LastIndexOf
+Имя метода: Remove
+Имя метода: RemoveAll
+Имя метода: RemoveAt
+Имя метода: RemoveRange
+Имя метода: Reverse
+Имя метода: Reverse
+Имя метода: Sort
+Имя метода: Sort
+Имя метода: Sort
+Имя метода: Sort
+Имя метода: ToArray
+Имя метода: TrimExcess
+Имя метода: TrueForAll
+Имя метода: ConvertAll
+Имя метода: Equals
+Имя метода: GetHashCode
+Имя метода: GetType
+Имя метода: ToString
+----------------------------------------------------
+----------------------------------------------------
+<---------------------------------------------- Invoke ---------------------------------------------->
+2
+3
+5
+8
+17
+40

@@ -1,0 +1,33 @@
+--------------- file system --------------- 
+________________________________________________
+Drive name: C:\
+Volume label: 
+file system: NTFS
+Drive type: Fixed
+Root: C:\
+Free space:12840103936/103699083264 is empty
+________________________________________________
+________________________________________________
+Drive name: D:\
+Volume label: 
+file system: NTFS
+Drive type: Fixed
+Root: D:\
+Free space:37163352064/151200460800 is empty
+________________________________________________
+--------------- Drive space --------------- 
+Drive name: C:\ 12840103936/103699083264 is empty
+Drive name: D:\ 37163352064/151200460800 is empty
+--------------- Information about all drives --------------- 
+________________________________________________
+Drive name: C:\
+Volume label: 
+file system: NTFS
+Free space:12840103936/103699083264 is empty
+________________________________________________
+________________________________________________
+Drive name: D:\
+Volume label: 
+file system: NTFS
+Free space:37163352064/151200460800 is empty
+________________________________________________

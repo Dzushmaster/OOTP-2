@@ -1,0 +1,8 @@
+--------------- Full path ---------------
+Full path: C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12\LP12\KDVFileInfo.txt
+--------------- Size, Extension, Name ---------------
+Size of file: 0
+Extension of file: .txt
+Name of file: KDVFileInfo.txt
+--------------- Date of creating/changing ---------------
+Date of creating/changing: 11.12.2020 11:17:33

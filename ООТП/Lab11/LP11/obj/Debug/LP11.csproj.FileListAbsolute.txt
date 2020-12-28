@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12\LP11\bin\Debug\LP11.exe.config
+C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12\LP11\bin\Debug\LP11.exe
+C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12\LP11\bin\Debug\LP11.pdb
+C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12\LP11\obj\Debug\LP11.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12\LP11\obj\Debug\LP11.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12\LP11\obj\Debug\LP11.exe
+C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12\LP11\obj\Debug\LP11.pdb

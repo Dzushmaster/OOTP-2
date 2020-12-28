@@ -1,0 +1,8 @@
+--------------- Count of files --------------- 
+Count of files in the directory is: 14
+--------------- Time of creating direct --------------- 
+Count of files in the directory is: 09.12.2020 13:17:24
+--------------- Count of directory --------------- 
+Count of directory in the directory is: 5
+--------------- Parents of directory --------------- 
+Parent directory: C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12

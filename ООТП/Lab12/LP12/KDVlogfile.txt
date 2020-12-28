@@ -1,0 +1,201 @@
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDiskInfo.txt Time: 11.12.2020 14:14:26file System
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDiskInfo.txt Time: 11.12.2020 14:14:26Drive space
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDiskInfo.txt Time: 11.12.2020 14:14:26All drivers info
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVFileInfo.txt Time: 11.12.2020 14:14:26Full Path
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVFileInfo.txt Time: 11.12.2020 14:14:26Size, Expans, Name
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVFileInfo.txt Time: 11.12.2020 14:14:26Date of create of change
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDriveInfo.txt Time: 11.12.2020 14:14:26Count of files
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDriveInfo.txt Time: 11.12.2020 14:14:26Time creating
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDriveInfo.txt Time: 11.12.2020 14:14:26Count directs
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDriveInfo.txt Time: 11.12.2020 14:14:26Parent directs
+Name: C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12\LP12\KDVdirinfo.txt Time: 11.12.2020 14:14:26Full Path
+Name: C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12\LP12\KDVdirinfo.txt Time: 11.12.2020 14:14:26Full Path
+Name: C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12\LP12\KDVdirinfo.txt Time: 01.01.1601 2:00:00Full Path
+Name: C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12\LP12\KDVdirinfo.txt Time: 01.01.1601 2:00:00Full Path
+Name: C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12\LP12\KDVInspect Time: 11.12.2020 14:14:26Full Path
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDiskInfo.txt Time: 11.12.2020 14:14:26file System
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDiskInfo.txt Time: 11.12.2020 14:14:26Drive space
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDiskInfo.txt Time: 11.12.2020 14:14:26All drivers info
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVFileInfo.txt Time: 11.12.2020 14:14:26Full Path
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVFileInfo.txt Time: 11.12.2020 14:14:26Size, Expans, Name
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVFileInfo.txt Time: 11.12.2020 14:14:26Date of create of change
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDriveInfo.txt Time: 11.12.2020 14:14:26Count of files
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDriveInfo.txt Time: 11.12.2020 14:14:26Time creating
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDriveInfo.txt Time: 11.12.2020 14:14:26Count directs
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDriveInfo.txt Time: 11.12.2020 14:14:26Parent directs
+Name: C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12\LP12\KDVdirinfo.txt Time: 11.12.2020 14:15:26Full Path
+Name: C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12\LP12\KDVdirinfo.txt Time: 11.12.2020 14:15:26Full Path
+Name: C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12\LP12\KDVdirinfo.txt Time: 01.01.1601 2:00:00Full Path
+Name: C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12\LP12\KDVdirinfo.txt Time: 01.01.1601 2:00:00Full Path
+Name: C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12\LP12\KDVInspect Time: 11.12.2020 14:14:26Full Path
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDiskInfo.txt Time: 11.12.2020 14:14:26file System
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDiskInfo.txt Time: 11.12.2020 14:14:26Drive space
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDiskInfo.txt Time: 11.12.2020 14:14:26All drivers info
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVFileInfo.txt Time: 11.12.2020 14:14:26Full Path
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVFileInfo.txt Time: 11.12.2020 14:14:26Size, Expans, Name
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVFileInfo.txt Time: 11.12.2020 14:14:26Date of create of change
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDriveInfo.txt Time: 11.12.2020 14:14:26Count of files
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDriveInfo.txt Time: 11.12.2020 14:14:26Time creating
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDriveInfo.txt Time: 11.12.2020 14:14:26Count directs
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDriveInfo.txt Time: 11.12.2020 14:14:26Parent directs
+Name: C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12\LP12\KDVdirinfo.txt Time: 11.12.2020 14:16:14Full Path
+Name: C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12\LP12\KDVdirinfo.txt Time: 11.12.2020 14:16:14Full Path
+Name: C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12\LP12\KDVdirinfo.txt Time: 01.01.1601 2:00:00Full Path
+Name: C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12\LP12\KDVdirinfo.txt Time: 01.01.1601 2:00:00Full Path
+Name: C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12\LP12\KDVInspect Time: 11.12.2020 14:14:26Full Path
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDiskInfo.txt Time: 11.12.2020 14:14:26file System
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDiskInfo.txt Time: 11.12.2020 14:14:26Drive space
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDiskInfo.txt Time: 11.12.2020 14:14:26All drivers info
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVFileInfo.txt Time: 11.12.2020 14:14:26Full Path
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVFileInfo.txt Time: 11.12.2020 14:14:26Size, Expans, Name
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVFileInfo.txt Time: 11.12.2020 14:14:26Date of create of change
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDriveInfo.txt Time: 11.12.2020 14:14:26Count of files
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDriveInfo.txt Time: 11.12.2020 14:14:26Time creating
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDriveInfo.txt Time: 11.12.2020 14:14:26Count directs
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDriveInfo.txt Time: 11.12.2020 14:14:26Parent directs
+Name: C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12\LP12\KDVdirinfo.txt Time: 11.12.2020 14:17:33Full Path
+Name: C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12\LP12\KDVdirinfo.txt Time: 11.12.2020 14:17:33Full Path
+Name: C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12\LP12\KDVdirinfo.txt Time: 01.01.1601 2:00:00Full Path
+Name: C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12\LP12\KDVdirinfo.txt Time: 01.01.1601 2:00:00Full Path
+Name: C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12\LP12\KDVInspect Time: 11.12.2020 14:14:26Full Path
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDiskInfo.txt Time: 11.12.2020 14:14:26file System
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDiskInfo.txt Time: 11.12.2020 14:14:26Drive space
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDiskInfo.txt Time: 11.12.2020 14:14:26All drivers info
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVFileInfo.txt Time: 11.12.2020 14:14:26Full Path
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVFileInfo.txt Time: 11.12.2020 14:14:26Size, Expans, Name
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVFileInfo.txt Time: 11.12.2020 14:14:26Date of create of change
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDriveInfo.txt Time: 11.12.2020 14:14:26Count of files
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDriveInfo.txt Time: 11.12.2020 14:14:26Time creating
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDriveInfo.txt Time: 11.12.2020 14:14:26Count directs
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDriveInfo.txt Time: 11.12.2020 14:14:26Parent directs
+Name: C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12\LP12\KDVdirinfo.txt Time: 11.12.2020 14:17:58Full Path
+Name: C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12\LP12\KDVdirinfo.txt Time: 11.12.2020 14:17:58Full Path
+Name: C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12\LP12\KDVdirinfo.txt Time: 01.01.1601 2:00:00Full Path
+Name: C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12\LP12\KDVdirinfo.txt Time: 01.01.1601 2:00:00Full Path
+Name: C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12\LP12\KDVInspect Time: 11.12.2020 14:14:26Full Path
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDiskInfo.txt Time: 11.12.2020 14:14:26file System
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDiskInfo.txt Time: 11.12.2020 14:14:26Drive space
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDiskInfo.txt Time: 11.12.2020 14:14:26All drivers info
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVFileInfo.txt Time: 11.12.2020 14:14:26Full Path
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVFileInfo.txt Time: 11.12.2020 14:14:26Size, Expans, Name
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVFileInfo.txt Time: 11.12.2020 14:14:26Date of create of change
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDriveInfo.txt Time: 11.12.2020 14:14:26Count of files
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDriveInfo.txt Time: 11.12.2020 14:14:26Time creating
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDriveInfo.txt Time: 11.12.2020 14:14:26Count directs
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDriveInfo.txt Time: 11.12.2020 14:14:26Parent directs
+Name: C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12\LP12\KDVdirinfo.txt Time: 11.12.2020 14:18:11Full Path
+Name: C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12\LP12\KDVdirinfo.txt Time: 11.12.2020 14:18:11Full Path
+Name: C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12\LP12\KDVdirinfo.txt Time: 01.01.1601 2:00:00Full Path
+Name: C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12\LP12\KDVdirinfo.txt Time: 01.01.1601 2:00:00Full Path
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDiskInfo.txt Time: 11.12.2020 14:14:26file System
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDiskInfo.txt Time: 11.12.2020 14:14:26Drive space
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDiskInfo.txt Time: 11.12.2020 14:14:26All drivers info
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVFileInfo.txt Time: 11.12.2020 14:14:26Full Path
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVFileInfo.txt Time: 11.12.2020 14:14:26Size, Expans, Name
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVFileInfo.txt Time: 11.12.2020 14:14:26Date of create of change
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDriveInfo.txt Time: 11.12.2020 14:14:26Count of files
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDriveInfo.txt Time: 11.12.2020 14:14:26Time creating
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDriveInfo.txt Time: 11.12.2020 14:14:26Count directs
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDriveInfo.txt Time: 11.12.2020 14:14:26Parent directs
+Name: C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12\LP12\KDVdirinfo.txt Time: 11.12.2020 14:18:37Full Path
+Name: C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12\LP12\KDVdirinfo.txt Time: 11.12.2020 14:18:37Full Path
+Name: C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12\LP12\KDVdirinfo.txt Time: 01.01.1601 2:00:00Full Path
+Name: C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12\LP12\KDVdirinfo.txt Time: 01.01.1601 2:00:00Full Path
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDiskInfo.txt Time: 11.12.2020 14:14:26file System
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDiskInfo.txt Time: 11.12.2020 14:14:26Drive space
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDiskInfo.txt Time: 11.12.2020 14:14:26All drivers info
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVFileInfo.txt Time: 11.12.2020 14:14:26Full Path
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVFileInfo.txt Time: 11.12.2020 14:14:26Size, Expans, Name
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVFileInfo.txt Time: 11.12.2020 14:14:26Date of create of change
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDriveInfo.txt Time: 11.12.2020 14:14:26Count of files
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDriveInfo.txt Time: 11.12.2020 14:14:26Time creating
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDriveInfo.txt Time: 11.12.2020 14:14:26Count directs
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDriveInfo.txt Time: 11.12.2020 14:14:26Parent directs
+Name: C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12\LP12\KDVdirinfo.txt Time: 11.12.2020 14:25:21Full Path
+Name: C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12\LP12\KDVdirinfo.txt Time: 11.12.2020 14:25:21Full Path
+Name: C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12\LP12\KDVdirinfo.txt Time: 01.01.1601 2:00:00Full Path
+Name: C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12\LP12\KDVdirinfo.txt Time: 01.01.1601 2:00:00Full Path
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDiskInfo.txt Time: 11.12.2020 14:14:26file System
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDiskInfo.txt Time: 11.12.2020 14:14:26Drive space
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDiskInfo.txt Time: 11.12.2020 14:14:26All drivers info
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVFileInfo.txt Time: 11.12.2020 14:14:26Full Path
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVFileInfo.txt Time: 11.12.2020 14:14:26Size, Expans, Name
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVFileInfo.txt Time: 11.12.2020 14:14:26Date of create of change
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDriveInfo.txt Time: 11.12.2020 14:14:26Count of files
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDriveInfo.txt Time: 11.12.2020 14:14:26Time creating
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDriveInfo.txt Time: 11.12.2020 14:14:26Count directs
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDriveInfo.txt Time: 11.12.2020 14:14:26Parent directs
+Name: C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12\LP12\KDVdirinfo.txt Time: 11.12.2020 14:25:42Full Path
+Name: C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12\LP12\KDVdirinfo.txt Time: 11.12.2020 14:25:42Full Path
+Name: C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12\LP12\KDVdirinfo.txt Time: 01.01.1601 2:00:00Full Path
+Name: C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12\LP12\KDVdirinfo.txt Time: 01.01.1601 2:00:00Full Path
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDiskInfo.txt Time: 11.12.2020 14:14:26file System
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDiskInfo.txt Time: 11.12.2020 14:14:26Drive space
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDiskInfo.txt Time: 11.12.2020 14:14:26All drivers info
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVFileInfo.txt Time: 11.12.2020 14:14:26Full Path
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVFileInfo.txt Time: 11.12.2020 14:14:26Size, Expans, Name
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVFileInfo.txt Time: 11.12.2020 14:14:26Date of create of change
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDriveInfo.txt Time: 11.12.2020 14:14:26Count of files
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDriveInfo.txt Time: 11.12.2020 14:14:26Time creating
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDriveInfo.txt Time: 11.12.2020 14:14:26Count directs
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDriveInfo.txt Time: 11.12.2020 14:14:26Parent directs
+Name: C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12\LP12\KDVdirinfo.txt Time: 11.12.2020 14:26:48Full Path
+Name: C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12\LP12\KDVdirinfo.txt Time: 11.12.2020 14:26:48Full Path
+Name: C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12\LP12\KDVdirinfo.txt Time: 01.01.1601 2:00:00Full Path
+Name: C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12\LP12\KDVdirinfo.txt Time: 01.01.1601 2:00:00Full Path
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDiskInfo.txt Time: 11.12.2020 14:14:26file System
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDiskInfo.txt Time: 11.12.2020 14:14:26Drive space
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDiskInfo.txt Time: 11.12.2020 14:14:26All drivers info
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVFileInfo.txt Time: 11.12.2020 14:14:26Full Path
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVFileInfo.txt Time: 11.12.2020 14:14:26Size, Expans, Name
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVFileInfo.txt Time: 11.12.2020 14:14:26Date of create of change
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDriveInfo.txt Time: 11.12.2020 14:14:26Count of files
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDriveInfo.txt Time: 11.12.2020 14:14:26Time creating
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDriveInfo.txt Time: 11.12.2020 14:14:26Count directs
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDriveInfo.txt Time: 11.12.2020 14:14:26Parent directs
+Name: C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12\LP12\KDVdirinfo.txt Time: 11.12.2020 14:27:28Full Path
+Name: C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12\LP12\KDVdirinfo.txt Time: 11.12.2020 14:27:28Full Path
+Name: C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12\LP12\KDVdirinfo.txt Time: 01.01.1601 2:00:00Full Path
+Name: C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12\LP12\KDVdirinfo.txt Time: 01.01.1601 2:00:00Full Path
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDiskInfo.txt Time: 11.12.2020 14:14:26file System
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDiskInfo.txt Time: 11.12.2020 14:14:26Drive space
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDiskInfo.txt Time: 11.12.2020 14:14:26All drivers info
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVFileInfo.txt Time: 11.12.2020 14:14:26Full Path
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVFileInfo.txt Time: 11.12.2020 14:14:26Size, Expans, Name
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVFileInfo.txt Time: 11.12.2020 14:14:26Date of create of change
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDriveInfo.txt Time: 11.12.2020 14:14:26Count of files
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDriveInfo.txt Time: 11.12.2020 14:14:26Time creating
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDriveInfo.txt Time: 11.12.2020 14:14:26Count directs
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDriveInfo.txt Time: 11.12.2020 14:14:26Parent directs
+Name: C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12\LP12\KDVdirinfo.txt Time: 11.12.2020 14:28:43Full Path
+Name: C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12\LP12\KDVdirinfo.txt Time: 11.12.2020 14:28:43Full Path
+Name: C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12\LP12\KDVdirinfo.txt Time: 01.01.1601 2:00:00Full Path
+Name: C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12\LP12\KDVdirinfo.txt Time: 01.01.1601 2:00:00Full Path
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDiskInfo.txt Time: 11.12.2020 14:14:26file System
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDiskInfo.txt Time: 11.12.2020 14:14:26Drive space
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDiskInfo.txt Time: 11.12.2020 14:14:26All drivers info
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVFileInfo.txt Time: 11.12.2020 14:14:26Full Path
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVFileInfo.txt Time: 11.12.2020 14:14:26Size, Expans, Name
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVFileInfo.txt Time: 11.12.2020 14:14:26Date of create of change
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDriveInfo.txt Time: 11.12.2020 14:14:26Count of files
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDriveInfo.txt Time: 11.12.2020 14:14:26Time creating
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDriveInfo.txt Time: 11.12.2020 14:14:26Count directs
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDriveInfo.txt Time: 11.12.2020 14:14:26Parent directs
+Name: C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12\LP12\KDVdirinfo.txt Time: 11.12.2020 14:29:13Full Path
+Name: C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12\LP12\KDVdirinfo.txt Time: 11.12.2020 14:29:13Full Path
+Name: C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12\LP12\KDVdirinfo.txt Time: 01.01.1601 2:00:00Full Path
+Name: C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12\LP12\KDVdirinfo.txt Time: 01.01.1601 2:00:00Full Path
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDiskInfo.txt Time: 11.12.2020 14:14:26file System
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDiskInfo.txt Time: 11.12.2020 14:14:26Drive space
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDiskInfo.txt Time: 11.12.2020 14:14:26All drivers info
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVFileInfo.txt Time: 11.12.2020 14:14:26Full Path
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVFileInfo.txt Time: 11.12.2020 14:14:26Size, Expans, Name
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVFileInfo.txt Time: 11.12.2020 14:14:26Date of create of change
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDriveInfo.txt Time: 11.12.2020 14:14:26Count of files
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDriveInfo.txt Time: 11.12.2020 14:14:26Time creating
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDriveInfo.txt Time: 11.12.2020 14:14:26Count directs
+Name: C:/Users/User/Desktop/Универ/2 курс/ООТП/Lab12/LP12/KDVDriveInfo.txt Time: 11.12.2020 14:14:26Parent directs
+Name: C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12\LP12\KDVdirinfo.txt Time: 11.12.2020 15:11:38Full Path
+Name: C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12\LP12\KDVdirinfo.txt Time: 11.12.2020 15:11:38Full Path
+Name: C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12\LP12\KDVdirinfo.txt Time: 01.01.1601 2:00:00Full Path
+Name: C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab12\LP12\KDVdirinfo.txt Time: 01.01.1601 2:00:00Full Path

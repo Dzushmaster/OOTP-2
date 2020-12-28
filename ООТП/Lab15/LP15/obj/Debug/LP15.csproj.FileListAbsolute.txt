@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab15\LP15\bin\Debug\LP15.exe.config
+C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab15\LP15\bin\Debug\LP15.exe
+C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab15\LP15\bin\Debug\LP15.pdb
+C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab15\LP15\obj\Debug\LP15.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab15\LP15\obj\Debug\LP15.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab15\LP15\obj\Debug\LP15.exe
+C:\Users\User\Desktop\Универ\2 курс\ООТП\Lab15\LP15\obj\Debug\LP15.pdb
